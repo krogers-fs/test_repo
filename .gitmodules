@@ -1,3 +1,6 @@
 [submodule "lib/full-swing/kit.radar.platform"]
 	path = lib/full-swing/kit.radar.platform
 	url = git@github.com:FullSwingSimulators/kit.radar.platform.git
+[submodule "lib/full-swing/kit_protobuffs"]
+	path = lib/full-swing/kit_protobuffs
+	url = git@github.com:FullSwingSimulators/kit-multisport-protobufs.git
